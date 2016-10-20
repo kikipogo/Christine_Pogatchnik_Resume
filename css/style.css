@@ -1,7 +1,7 @@
 body {
 	 padding: 50px 0;
 	 font-size: 19px;
-	 font-family: HelveticaNeueETW01-55Rg;
+	 font-family: "Times New Roman", Times, serif;
 }
 
 #main {
@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-	 font-family: "HelveticaNeueETW02-65Md";
+	 font-family: "Times New Roman", Times, serif;
 	 font-size: 4em;
 	 line-height: 0.928em;
 	 text-align: center;
@@ -31,7 +31,7 @@ p {
 
 h2 {
 	 font-size: 1.526em;
-	 font-family: HelveticaNeueETW02-65Md;
+	 font-family: "Times New Roman", Times, serif;
 	 line-height: 0.931em;
 	 margin: 0px 0px 0.31em 0px;
 }
