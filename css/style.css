@@ -1,0 +1,67 @@
+body {
+	 padding: 50px 0;
+	 font-size: 19px;
+	 font-family: HelveticaNeueETW01-55Rg;
+}
+
+#main {
+	 margin: 0 auto;
+	 width: 800px;
+	 -webkit-box-sizing: border-box;
+	 -moz-box-sizing: border-box;
+	 box-sizing: border-box;
+}
+
+h1 {
+	 font-family: "HelveticaNeueETW02-65Md";
+	 font-size: 4em;
+	 line-height: 0.928em;
+	 text-align: center;
+	 text-transform: uppercase;
+}
+
+
+p {
+	 font-size: 1em;
+	 line-height: 1.32em;
+	 color: rgba(51, 51, 51, 0.80);
+	 margin: 0px 0px 0px 0px;
+	 width: 800px;
+}
+
+h2 {
+	 font-size: 1.526em;
+	 font-family: HelveticaNeueETW02-65Md;
+	 line-height: 0.931em;
+	 margin: 0px 0px 0.31em 0px;
+}
+
+p.contact {
+	 text-align: center;
+	 font-size: 16px;
+	 letter-spacing: 2px;
+	 margin-top: 27px;
+	 line-height: 40px;
+}
+
+div.testimonial {
+	 margin: 0 auto 1em auto;
+	 width: auto;
+	 text-align: center;
+}
+
+img.testimonial-avatar {
+	 -webkit-border-radius: 50%;
+	 -o-border-radius: 50%;
+	 -moz-border-radius: 50%;
+	 -ms-border-radius: 50%;
+	 max-width: 100%;
+	 width: 260px;
+	 border-radius: 50%;
+	 display: block;
+	 margin: 0 auto 10px auto;
+}
+
+img.square {
+	 max-width: 100%;
+}
